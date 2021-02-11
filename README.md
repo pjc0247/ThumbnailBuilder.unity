@@ -1,6 +1,5 @@
 # ThumbnailBuilder.unity
-Build prefab thumbnails in one click
-
+Generate bunch of thumbnails in PNG with 1 click.
 
 ![preview.png](preview.png)
 
